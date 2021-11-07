@@ -6,5 +6,5 @@ while user_number > 0 :
     user_number = user_number // 10
     if prom>big:
         big=prom
-print(big)
+print(f"Самая большая цифра в числе: {big}")
 print("Program ended")
