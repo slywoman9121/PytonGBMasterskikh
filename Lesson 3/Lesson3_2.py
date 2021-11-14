@@ -2,7 +2,7 @@ def infot (name:str, family:str, gr:int, gp:str, e_mail:str, tel:int):
 
     kort = (name, family, gr, gp, e_mail, tel)
     print(kort)
-user_name = input('Привет, как тебя зовут - ')
+#user_name = input('Привет, как тебя зовут - ')
 name1 = input("Введите имя - ")
 family1 = input("Введите фамилию - ")
 gr1 = input("Введите год рождения - ")
