@@ -8,6 +8,6 @@ with open("FiveFile.txt", "a") as str:
     tra = 0
     for elem in sss:
         tra += int(elem)
-    print(tra)
+    print(f"The sum of the numbers from the file - {tra}")
     str.write(f"List of numbers - {summ1}")
-    str.write(f"\nSumma - {tra}")
+    # str.write(f"\nSumma - {tra}")
