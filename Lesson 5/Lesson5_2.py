@@ -8,5 +8,5 @@ with open('SecondFile.txt') as str:
             print(line.strip())
             kar = len(line) - line.count(" ")
             print(f"Count symbol - {kar}")
-# Я понять не могу почему показывает кроме последней строки все на 1 символ больше
+# Я понять не могу, как ту4т убрать символы \n
 
