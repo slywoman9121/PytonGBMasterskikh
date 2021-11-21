@@ -4,3 +4,4 @@ Kalistratov 28000
 Zmudina 26000
 Habibullin 29000
 Grishko 15000
+Kozlov 10000
